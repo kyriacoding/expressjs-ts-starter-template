@@ -15,9 +15,9 @@ This project is a starter template for building an ExpressJS API using TypeScrip
 To get started with this template, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/kyriacoding/expressjs-ts-starter-template.git`
-2. Install dependencies: `npm install`
-3. Build the project: `npm run build`
-4. Start the server: `npm start`
+2. Create a `.env` file based on the example provided on `.env.example`
+3. Install dependencies: `npm install`
+4. Start the server: `npm run dev`
 
 ## Project Structure
 
